@@ -12,6 +12,13 @@
 - The "always review before accepting" discipline is especially important here — a test that passes but doesn't catch real bugs is worse than no test at all
 - Same rule applies: **generated tests are a starting point, not a finished product**
 
+**Pre-session setup note — Virtual Environment & pytest:**
+- Before running any generated tests, attendees will need a virtual environment with pytest installed
+- Copilot Chat can walk you through this — in the Chat panel ask:
+  > *"How do I set up a Python virtual environment in VS Code and install pytest?"*
+- Copilot will provide step-by-step instructions tailored to your OS — a good example of using Ask mode for environment setup rather than code generation
+- For anyone who hasn't done this yet, walk through it together at the start of the session or share the prompt above for them to run on their own machine afterward
+
 ---
 
 ## 0:05 – 0:15 | Test Generation Overview
