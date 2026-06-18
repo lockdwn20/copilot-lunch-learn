@@ -3,10 +3,8 @@
 # Demo Script
 #
 # SCENARIO: Build a small Python CLI tool that reads a CSV of security
-# alerts and prints a summary report grouped by severity. Chosen because
-# it's immediately recognizable to a CSIRT-adjacent audience and small
-# enough to scaffold live within the demo window.
-# -----------------------------------------------------------------------
+# alerts and prints a summary report grouped by severity. 
+----------------------
 
 
 ## Step 1 — Plan Mode: Propose the Approach
